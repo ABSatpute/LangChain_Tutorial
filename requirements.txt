@@ -1,0 +1,35 @@
+# Web framework
+fastapi==0.111.0
+uvicorn==0.30.1
+
+# RAG pipeline
+langchain==0.2.5
+langchain-community==0.2.5
+langchain-core==0.2.5
+langchain_experimental
+
+# Vector stores (choose what you need)
+faiss-cpu==1.8.0.post1
+chromadb==0.5.3
+pinecone-client==4.0.0
+
+# Embeddings + LLM APIs
+openai==1.35.7
+transformers==4.42.3
+sentence-transformers==2.7.0
+langchain_huggingface
+langchain_anthropic
+
+# Data handling
+pydantic==2.7.4
+numpy==2.3.2
+pandas==2.2.2
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.32.3
+
+# Optional (for PDF/text docs ingestion)
+pypdf==4.2.0
+unstructured==0.14.7
+tiktoken==0.7.0

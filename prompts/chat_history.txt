@@ -1,0 +1,8 @@
+SystemMessage(content='You are a helpful assistant.', additional_kwargs={}, response_metadata={}),
+HumanMessage(content='Hi', additional_kwargs={}, response_metadata={}), 
+AIMessage(content='Hello! How can I assist you today?', additional_kwargs={}, response_metadata={}), 
+HumanMessage(content='tell me about yourself', additional_kwargs={}, response_metadata={}), 
+AIMessage(content='I am a virtual assistant here to help answer your questions, provide information, and assist with any tasks you may have. Feel free to ask me anything you need help with!', additional_kwargs={}, response_metadata={}), 
+HumanMessage(content='tell me your birthdate', additional_kwargs={}, response_metadata={}), 
+AIMessage(content="I don't have a specific birthdate since I am a virtual assistant program, but I'm always here and ready to assist you whenever you need help!", additional_kwargs={}, response_metadata={}), 
+HumanMessage(content='exit', additional_kwargs={}, response_metadata={})
